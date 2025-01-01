@@ -10,7 +10,7 @@ models:
   - 40.0565071105957
   - 21.93989372253418
   name: Clip_#13831
-  path: ../tricky-3d-models/scf24/Clip_#13831.stl
+  path: ../tricky-3d-models/models/Clip_#13831.stl
   rotation:
   - x: 0.0
     y: 0.0

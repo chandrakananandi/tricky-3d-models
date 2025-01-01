@@ -10,7 +10,7 @@ models:
   - 4.0
   - 60.0
   name: VertexProblem
-  path: ../tricky-3d-models/models/VertexProblem.3mf
+  path: ../tricky-3d-models/models/VertexProblem.stl
   rotation:
   - x: 0.0
     y: 0.0

@@ -10,7 +10,7 @@ models:
   - 133.9325714111328
   - 8.0
   name: BobbinPlate_1430 v2
-  path: ../tricky-3d-models/online/BobbinPlate_1430 v2.stl
+  path: ../tricky-3d-models/models/BobbinPlate_1430 v2.stl
   rotation:
   - x: 0.0
     y: 0.0

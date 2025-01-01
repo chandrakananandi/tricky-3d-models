@@ -9,8 +9,8 @@ models:
   - 98.81149291992188
   - 41.13856506347656
   - 65.93710327148438
-  name: Arm_02_scaled
-  path: ../tricky-3d-models/online/Arm_02_scaled.STL
+  name: airplane
+  path: ../tricky-3d-models/models/airplane.stl
   rotation:
   - x: 0.0
     y: 0.0

@@ -10,7 +10,7 @@ models:
   - 88.28158569335938
   - 5.000007629394531
   name: Amy_negativ_12975
-  path: ../tricky-3d-models/online/Amy_negativ_12975.stl
+  path: ../tricky-3d-models/models/Amy_negativ_12975.stl
   rotation:
   - x: 0.0
     y: 0.0

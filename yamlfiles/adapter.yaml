@@ -10,7 +10,7 @@ models:
   - 130.0
   - 6.6684041023254395
   name: 130mm-round-to-150x100mm-square-base-adapter-130mm-round
-  path: ../tricky-3d-models/online/130mm-round-to-150x100mm-square-base-adapter-130mm-round.stl
+  path: ../tricky-3d-models/models/130mm-round-to-150x100mm-square-base-adapter-130mm-round.stl
   rotation:
   - x: 0.0
     y: 0.0
