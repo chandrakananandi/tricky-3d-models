@@ -1,9 +1,9 @@
 format: glitch-expt
 models:
 - boxsize:
-    height: 0.1
-    length: 0.1
-    width: 0.1
+    height: 0.05
+    length: 0.05
+    width: 0.05
   density: 0.3
   dimensions:
   - 3.6398978233337402

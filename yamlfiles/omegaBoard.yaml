@@ -1,16 +1,16 @@
 format: glitch-expt
 models:
 - boxsize:
-    height: 1.5
-    length: 1.5
-    width: 1.5
+    height: 1.0
+    length: 1.2
+    width: 1.2
   density: 0.3
   dimensions:
   - 245.0
   - 191.0
   - 13.2
   name: omegaBoard
-  path: ../tricky-3d-models/models/CCR10_CAIXA-FRENTE-V4_5927.3mf
+  path: ../tricky-3d-models/models/5927.stl
   rotation:
   - x: 0.0
     y: 0.0

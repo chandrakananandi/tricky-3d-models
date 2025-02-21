@@ -10,7 +10,7 @@ models:
   - 100.5
   - 133.4
   name: Cura_Error_13339
-  path: ../tricky-3d-models/models/Cura_Error_13339.3mf
+  path: ../tricky-3d-models/models/13339.stl
   rotation:
   - x: 0.0
     y: 0.0

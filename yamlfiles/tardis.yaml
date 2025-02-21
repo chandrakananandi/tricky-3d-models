@@ -1,9 +1,9 @@
 format: glitch-expt
 models:
 - boxsize:
-    height: 1.5
-    length: 1.5
-    width: 1.5
+    height: 1.0
+    length: 1.0
+    width: 1.0
   density: 0.3
   dimensions:
   - 100.0
@@ -21,7 +21,7 @@ models:
   - x: 0.0
     y: 90.0
     z: 0.0
-  sampling: 0.6
+  sampling: 0.4
   scaling: 1
   threshold: 90
 version: 1

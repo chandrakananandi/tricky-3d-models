@@ -10,7 +10,7 @@ models:
   - 163.0
   - 38.0
   name: CE3S1_20240119-190730-V0-5-solid_#18079
-  path: ../tricky-3d-models/models/CE3S1_20240119-190730-V0-5-solid_#18079.3mf
+  path: ../tricky-3d-models/models/18079.stl
   rotation:
   - x: 0.0
     y: 0.0

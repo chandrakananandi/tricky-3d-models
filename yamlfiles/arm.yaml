@@ -10,7 +10,7 @@ models:
   - 8.9
   - 10.2
   name: 4131-Arm-Test_12967
-  path: ../tricky-3d-models/online/4131-Arm-Test_12967.stl
+  path: ../tricky-3d-models/models/4131-Arm-Test_12967.stl
   rotation:
   - x: 0.0
     y: 0.0

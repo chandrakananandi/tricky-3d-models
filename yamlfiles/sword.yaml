@@ -6,16 +6,16 @@ models:
     width: 1.0
   density: 0.3
   dimensions:
-  - 110.0
-  - 200.0
-  - 12.010000228881836
-  name: circularHole
-  path: ../tricky-3d-models/models/circularHole.stl
+  - 198.10206604003906
+  - 120.64666748046875
+  - 35.7405891418457
+  name: sword
+  path: ../tricky-3d-models/models/sword.stl
   rotation:
-  - x: 0.0
+  - x: 90.0
     y: 0.0
     z: 0.0
-  - x: 90.0
+  - x: 0.0
     y: 0.0
     z: 0.0
   - x: 0.0

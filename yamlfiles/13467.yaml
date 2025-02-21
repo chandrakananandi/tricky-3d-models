@@ -10,7 +10,7 @@ models:
   - 13.0
   - 61.5
   name: Pique-Mais_#13467
-  path: ../tricky-3d-models/models/Pique-Mais_#13467.3mf
+  path: ../tricky-3d-models/models/13467.stl
   rotation:
   - x: 0.0
     y: 0.0
