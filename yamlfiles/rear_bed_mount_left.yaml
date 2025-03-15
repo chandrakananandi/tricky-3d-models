@@ -1,16 +1,16 @@
 format: glitch-expt
 models:
 - boxsize:
-    height: 0.5
-    length: 1.0
-    width: 1.0
+    height: 0.6
+    length: 0.6
+    width: 0.6
   density: 0.3
   dimensions:
-  - 77.99673461914062
-  - 133.9325714111328
-  - 8.0
-  name: BobbinPlate_1430 v2
-  path: ../tricky-3d-models/models/BobbinPlate_1430 v2.stl
+  - 45.89997863769531
+  - 35.70001220703125
+  - 29.799997329711914
+  name: Rear_Bed_Mount_Left_x1
+  path: ../tricky-3d-models/models/Rear_Bed_Mount_Left_x1.stl
   rotation:
   - x: 0.0
     y: 0.0

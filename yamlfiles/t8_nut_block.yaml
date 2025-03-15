@@ -1,16 +1,16 @@
 format: glitch-expt
 models:
 - boxsize:
-    height: 2
-    length: 2
-    width: 2
+    height: 0.5
+    length: 0.5
+    width: 0.5
   density: 0.3
   dimensions:
-  - 1015.1229858398438
-  - 1500.0
-  - 400.0
-  name: nearby-bad
-  path: ../tricky-3d-models/models/nearby-bad.stl
+  - 39.19999694824219
+  - 27.99999237060547
+  - 25.0
+  name: T8_Nut_Block_x1
+  path: ../tricky-3d-models/models/T8_Nut_Block_x1.stl
   rotation:
   - x: 0.0
     y: 0.0
@@ -21,7 +21,7 @@ models:
   - x: 0.0
     y: 90.0
     z: 0.0
-  sampling: 1
+  sampling: 0.1
   scaling: 1
   threshold: 90
 version: 1
